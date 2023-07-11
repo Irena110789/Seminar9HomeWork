@@ -1,0 +1,15 @@
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\bin\Debug\net6.0\Task66.exe
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\bin\Debug\net6.0\Task66.deps.json
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\bin\Debug\net6.0\Task66.dll
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\bin\Debug\net6.0\Task66.pdb
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.dll
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\refint\Task66.dll
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.pdb
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+D:\Программирование Ир\03 Введение в C#\Seminar9 home work\Task66\obj\Debug\net6.0\ref\Task66.dll
